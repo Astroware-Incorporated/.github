@@ -1,3 +1,3 @@
 # Kelvin
 
-Welcome to <a href="https://github.com/Kelvin-Inc">Kelvin</a>. This is where we develop products such as, <a href="https://github.com/Kelvin-Inc/Velocity">Velocity</a> and <a href="https://github.com/Kelvin-Inc/Jscan">Jscan</a>.
+Welcome to <a href="https://github.com/Kelvin-Inc">Kelvin</a>. Kelvin is a non-profit that develops open-sorce programs like <a href="https://github.com/Kelvin-Inc/Velocity">Velocity</a>. We focus on one thing, shiping programs that change the wrold.
