@@ -1,5 +1,4 @@
-# Kelvin
+# Hey, this is us 👋
 
-Welcome to <a href="https://github.com/Kelvin-Inc">Kelvin</a> 👋.
-<br>
-<a href="https://github.com/Kelvin-Inc">Kelvin</a> is a non-profit that develops open-sorce programs like <a href="https://github.com/Kelvin-Inc/Velocity">Velocity</a>. We focus on one thing and one thing only, shiping programs that change the wrold.
+We are <a href="https://github.com/Kelvin-Inc">Kelvin</a>. Here we develop revolutionary, open-sorce programs. 
+We have been making extreme progress with the release of [Wavelength](https://github.com/Kelvin-Inc/Wavelength).
